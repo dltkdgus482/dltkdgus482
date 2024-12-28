@@ -28,7 +28,7 @@
 |:--------------:|:--------:|:--------:|:-----------------:|:-------------:|:-----------:|
 | [뚜벗뚜벗](https://github.com/dltkdgus482/TtubeotTtubeot) | 어린이를 위한 야외활동 장려 애플리케이션| 2024.10.14 ~ 2024.11.22 | 🏅 SSAFY 11기 **자율 프로젝트 우수상 수상(2등)** <br>- 삼성전자 주식회사 (2024.11.22) |Frontend| 삼성청년SW아카데미(SSAFY) |
 | [Stock Of Galaxy](https://github.com/dltkdgus482/Stock-Of-Galaxy) | 과거와 현재의 주식 정보 및 뉴스기사 정보 제공 서비스 | 2024.08.26 ~ 2024.10.11 | 🏅 SSAFY 11기 **특화 프로젝트 우수상 수상(1등)** <br>- 삼성전자 주식회사 (2024.10.11) |Frontend| 삼성청년SW아카데미(SSAFY) |
-| [Street Coding Fighter](https://github.com/dltkdgus482/SCF) | 코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 | 2024.07.08 ~ 2024.08.16 | 🏅 SSAFY 11기 **공통 프로젝트 우수상 수상(2등)** <br>- 삼성전자 주식회사 (2024.08.16) |Frontend| 삼성청년SW아카데미(SSAFY) |
+| [Street Coding Fighter](https://github.com/dltkdgus482/SCF) | 코딩을 게임처럼 즐기는 실시간 참여형 학습 플랫폼 서비스 | 2024.07.08 ~ 2024.08.16 | 🏅 SSAFY 11기 **공통 프로젝트 우수상 수상(2등)** <br>- 삼성전자 주식회사 (2024.08.16) |Frontend,<br>Backend| 삼성청년SW아카데미(SSAFY) |
 | [CC Finance](https://github.com/dltkdgus482/final_pjt) | BERT, OPEN AI를 활용한 금융 상품 정보 제공 서비스 | 2024.05.09 ~ 2024.05.23 | 🏅 SSAFY 11기 **관통 프로젝트 우수상 수상(2등)** <br>- 삼성전자 주식회사 (2024.05.24) | Frontend,<br>Backend,<br>최종 발표자| 삼성청년SW아카데미(SSAFY) |
 
 <h2>Experiences</h2>
