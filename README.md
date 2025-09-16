@@ -1,15 +1,7 @@
 <div>
+<h2>Resume</h2>
 
-<h1> Introduction </h1>
-<li>안녕하세요, 프론트엔드 개발자 이상현입니다.</li>
-
-<li>끊임없이 도전하는 개발자가 되고 싶습니다. 빠르게 변화하는 프론트엔드 기술을 새로 배워나가는 것을 좋아하며 그만큼 성장하는 것에 희열을 느낍니다.</li>
-
-<li>긍정적인 에너지로 무엇이든 즐깁니다. 저의 이러한 에너지가 다른 사람들에게도 영향을 주는 것을 좋아합니다.</li>
-
-<h2>Portfolio</h2>
-
-[이상현 포트폴리오](https://rowan-quit-d1c.notion.site/10d0738ff1a280e39f76dbd16a0315fc?pvs=4)
+[이상현 이력서](https://rowan-quit-d1c.notion.site/10d0738ff1a280e39f76dbd16a0315fc?pvs=4)
 
 <h2>Contact</h2>
 <a href="https://dltkdgus482.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
