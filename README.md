@@ -6,7 +6,6 @@
 <h2>Contact</h2>
 <a href="https://dltkdgus482.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
 <a href="mailto:dltkdgus482@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Naver&logoColor=white&link=mailto:syl1602@naver.com"/></a>
-<a href="https://www.instagram.com/dltkdgus482"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 ## Education
 
