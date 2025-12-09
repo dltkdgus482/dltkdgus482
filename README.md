@@ -1,12 +1,4 @@
 <div>
-<h2>Resume</h2>
-
-[이상현 이력서](https://rowan-quit-d1c.notion.site/10d0738ff1a280e39f76dbd16a0315fc?pvs=4)
-
-<h2>Contact</h2>
-<a href="https://dltkdgus482.tistory.com/"><img src="https://img.shields.io/badge/tistory-FF5722?style=flat-square&logo=tistory&logoColor=white"/></a>
-<a href="mailto:dltkdgus482@naver.com"><img src="https://img.shields.io/badge/Email-D0A9F5?style=flat-square&logo=Naver&logoColor=white&link=mailto:syl1602@naver.com"/></a>
-
 ## Education
 
 | **비고** | **기관** | **기간** |
@@ -14,7 +6,7 @@
 | 학사 졸업 | 부산대학교 수학과 | 2019.03 ~ 2023.02 |
 | 수료 | 삼성 청년 SW 아카데미 | 2024.01 ~ 2024.12 |
 | 수료 | 한국폴리텍대학 데이터분석과 <br> (하나금융티아이 채용연계형 교육생) | 2025.03 ~ 2025.11 |
-| 재학 | 금융투자교육원 서울핀테크아카데미 <br> 금융투자업 트랙 | 2025.10 ~ |
+| 수료 | 금융투자교육원 서울핀테크아카데미 <br> 금융투자업 트랙 | 2025.10 ~ 2025.12 |
 
 <h2>Projects</h2>
 
@@ -37,4 +29,3 @@
 <br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdgus482)](https://solved.ac/dltkdgus482/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SunYerim&layout=compact&theme=tokyonight)
